@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639265655277",
+    "firebase_url": "https://fcm-bloc.firebaseio.com",
+    "project_id": "fcm-bloc",
+    "storage_bucket": "fcm-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639265655277:android:b522302d472d6c63ff3fe4",
+        "android_client_info": {
+          "package_name": "com.example.login_using_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639265655277-loa03011egumqbcg116be52ejff9ongc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWm9Jyv51IMWcQq20W1mEHHLhJWC_BWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639265655277-loa03011egumqbcg116be52ejff9ongc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
